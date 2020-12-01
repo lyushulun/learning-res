@@ -1,5 +1,2 @@
-# Object file
-*.o
-
-# Ada Library Information
-*.ali
+# Ignore annoying macOS auto-generated file
+.DS_Store
