@@ -1,11 +1,8 @@
 # 计算机学习资源
 
-The repo is for noting all of learning resources of Computer Science.  
-记录所有自己用的学习资源, 包括: ebooks, MOOCs, etc.
+收集与计算机相关的学习资源, 包括: ebooks, 慕课视频, 博客文章, 有趣的项目.
 
-# 
-
-## Ebooks
+## 电子书
 
 Computer Network / 计算机网络
 - [图解 HTTP]()
@@ -26,7 +23,7 @@ Computer Network / 计算机网络
 密码学
 - [图解密码技术]()
 
-## MOOCs
+## 慕课视频 (也包括盗版培训视频)
 
 - []()
 - []()
@@ -34,3 +31,6 @@ Computer Network / 计算机网络
 - []()
 - []()
 - []()
+
+## 博客文章
+## 有趣的项目
